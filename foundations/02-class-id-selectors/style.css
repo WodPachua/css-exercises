@@ -1,0 +1,28 @@
+.odd-num {
+    background-color: rgb(226, 146, 149);
+    font-family: "Verdana", DejaVu Sans, sans-serif;
+}
+
+.second {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+.fourth {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#even-2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#even-4 {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-style: italic;
+}
